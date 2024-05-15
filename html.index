@@ -3,31 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Luan Andretta e Jhonatan Pessoa </title>
-    <link rel="icon" href="est.png" type="image/png">
+    <title>Lugares - [Luan Andretta e Jhonatan Pessoa]</title>
+    <link rel="icon" href="https://github.com/luan07k/Site-GitHub/assets/162522077/a5d54e2a-68bb-4486-b248-b4875065e437" type="image/png">
     <style>
         /* Estilos CSS podem ser adicionados aqui */
     </style>
 </head>
 <body>
     <header>
-        <h1>Programação</h1>
+        <h1>Olá, eu sou Gabriel da Silva Passos</h1>
     </header>
     <main>
         <p>Hoje vou falar sobre os lugares que eu mais gosto de frequentar:</p>
-        <h2>Parque do Semeador</h2>
-        <img src="Semeador.png" alt="Semeador" width="300" height="200">
-        <p>Sobre o lugar:<br>
-        Parque do Semeador: Parque com partidas de futebol na Arena Shabu, além de pistas de corrida e equipamentos de ginástica.
-        </p>
-        <h2>Parque Náutico</h2>
-        <img src="Nautico.png" alt="Náutico" width="300" height="200">
-        <p>Sobre o lugar:<br>
-        Parque Náutico: O lago do parque, formado pelo Rio Iguaçu, é destinado à prática de esportes e treinos de navegação não poluentes (remo, vela e canoagem).
-        </p>
+        <h2>Praia</h2>
+    <img src="https://github.com/luan07k/Site-GitHub/assets/162522077/d9843e9b-9475-4a30-a1d2-28bbe8140628" width="300" height="200">
+        <h3>Terreiro</h3>
+    <img src="https://github.com/luan07k/Site-GitHub/assets/162522077/0138bec6-60c0-4042-8447-651400674dc7" alt="Nautico" width="300" height="200">
+        <h4>sobre os lugares:</h4>
+        <p>Eu gosto de ir para Praia pois vou junto com a familia e brincar la.</p>
+        <p>Eu gosto de ir ao Terreiro, pois la me sinto bem, e me sinto acolhido por Todos.</p>
     </main>
     <footer>
-        <p>Desenvolvido por Luan Andretta Soares, 2024</p>
+        <p>Desenvolvido por [Gabriel da Silva Passos], 2024</p>
     </footer>
 </body>
 </html>

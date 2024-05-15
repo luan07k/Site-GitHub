@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luan Andretta e Jhonatan Pessoa.</title>
+    <title> Luan Andretta e Jhonatan Pessoa </title>
     <link rel="icon" href="est.png" type="image/png">
     <style>
         /* Estilos CSS podem ser adicionados aqui */
@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <h1>Olá, eu sou Luan Andretta Soares</h1>
+        <h1>Programação</h1>
     </header>
     <main>
         <p>Hoje vou falar sobre os lugares que eu mais gosto de frequentar:</p>
